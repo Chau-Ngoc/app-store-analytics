@@ -1,0 +1,10 @@
+name: D:\ml_datascience\app-store-analytics\env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
+  - matplotlib
+  - plotly=5.3.1
+prefix: D:\ml_datascience\app-store-analytics\env
